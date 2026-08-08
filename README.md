@@ -2,9 +2,6 @@
 
 # 🔍 AI Domain Deep Research Agent
 
-### 🎓 FREE Step-by-Step Tutorial 
-**👉 [Click here to follow our complete step-by-step tutorial](https://www.theunwindai.com/p/build-an-ai-domain-deep-research-agent) and learn how to build this from scratch with detailed code walkthroughs, explanations, and best practices.**
-
 An advanced AI research agent built using the Agno Agent framework, Together AI's Qwen model, and Composio tools. This agent helps users conduct comprehensive research on any topic by generating research questions, finding answers through multiple search engines, and compiling professional reports with Google Docs integration.
 
 ## Features
@@ -86,7 +83,3 @@ An advanced AI research agent built using the Agno Agent framework, Together AI'
 - composio_agno
 - streamlit
 - python-dotenv
-
-## License
-
-This project is part of the awesome-llm-apps collection and is available under the MIT License.
