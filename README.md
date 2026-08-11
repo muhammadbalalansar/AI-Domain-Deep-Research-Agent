@@ -7,6 +7,7 @@ An advanced AI research agent built using the Agno Agent framework, Together AI'
 
 ## Features
 
+
 - 🧠 **Intelligent Question Generation**:
 
   - Automatically generates 5 specific research questions about your topic
