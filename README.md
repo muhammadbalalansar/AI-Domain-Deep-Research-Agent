@@ -15,6 +15,7 @@ An advanced AI research agent built using the Agno Agent framework, Together AI'
   - Focuses on creating yes/no questions for clear research outcomes
 - 🔎 **Multi-Source Research**:
 
+
   - Uses Tavily Search for comprehensive web results
   - Leverages Perplexity AI for deeper analysis
   - Combines multiple sources for thorough research
