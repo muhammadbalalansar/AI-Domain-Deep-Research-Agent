@@ -21,6 +21,7 @@ An advanced AI research agent built using the Agno Agent framework, Together AI'
   - Combines multiple sources for thorough research
 - 📊 **Professional Report Generation**:
 
+
   - Compiles research findings into a McKinsey-style report
   - Structures content with executive summary, analysis, and conclusion
   - Creates a Google Doc with the complete report
