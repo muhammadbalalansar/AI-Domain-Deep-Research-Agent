@@ -51,6 +51,7 @@ An advanced AI research agent built using the Agno Agent framework, Together AI'
    ```
 2. **Configure API Keys**
 
+
    - Get Together AI API key from [Together AI](https://together.ai)
    - Get Composio API key from [Composio](https://composio.ai)
    - Add these to a `.env` file or enter them in the app sidebar
