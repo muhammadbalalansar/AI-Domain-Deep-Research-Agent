@@ -25,6 +25,7 @@ An advanced AI research agent built using the Agno Agent framework, Together AI'
   - Structures content with executive summary, analysis, and conclusion
   - Creates a Google Doc with the complete report
 - 🖥️ **User-Friendly Interface**:
+- 
 
   - Clean Streamlit UI with intuitive workflow
   - Real-time progress tracking
