@@ -71,7 +71,7 @@ An advanced AI research agent built using the Agno Agent framework, Together AI'
 - **Composio Tools**: Integrates search engines and Google Docs functionality
 - **Streamlit**: Powers the user interface with interactive elements
 
-## Example Use Cases
+## Example Use Cases:
 
 - **Academic Research**: Quickly gather information on academic topics across various disciplines
 - **Market Analysis**: Research market trends, competitors, and industry developments
