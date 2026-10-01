@@ -64,7 +64,7 @@ An advanced AI research agent built using the Agno Agent framework, Together AI'
 6. Once research is complete, click "Compile Final Report" to generate a professional report
 7. View the report in the app and access it in Google Docs
 
-## Technical Details
+## Technical Details:
 
 - **Agno Framework**: Used for creating and orchestrating AI agents
 - **Together AI**: Provides the Qwen 3 235B model for advanced language processing
