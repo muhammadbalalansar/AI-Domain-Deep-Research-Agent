@@ -54,7 +54,7 @@ An advanced AI research agent built using the Agno Agent framework, Together AI'
    streamlit run ai_domain_deep_research_agent.py
    ```
 
-## Usage
+## Usage:
 
 1. Launch the application using the command above
 2. Enter your Together AI and Composio API keys in the sidebar
