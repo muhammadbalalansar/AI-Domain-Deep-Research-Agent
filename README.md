@@ -27,7 +27,7 @@ An advanced AI research agent built using the Agno Agent framework, Together AI'
   - Real-time progress tracking
   - Expandable sections to view detailed results
 
-## How to Run
+## How to Run:
 
 1. **Setup Environment**
 
