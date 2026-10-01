@@ -31,7 +31,6 @@ An advanced AI research agent built using the Agno Agent framework, Together AI'
 
 1. **Setup Environment**
 
-
    ```bash
    # Clone the repository
    git clone https://github.com/muhammadbalalansar/AI-Domain-Deep-Research-Agent.git
